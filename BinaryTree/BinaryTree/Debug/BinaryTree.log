@@ -1,0 +1,9 @@
+﻿  BinatryTree.cpp
+U:\Algoritmos y estructuras de datos\Practicando-PC2\BinaryTree\BinaryTree\BinaryTree\BinaryTree.h(78,27): warning C4566: el carácter representado por el nombre de carácter universal '\u251C' no se puede representar en la página de códigos actual (1252)
+U:\Algoritmos y estructuras de datos\Practicando-PC2\BinaryTree\BinaryTree\BinaryTree\BinaryTree.h(78,27): warning C4566: el carácter representado por el nombre de carácter universal '\u2500' no se puede representar en la página de códigos actual (1252)
+U:\Algoritmos y estructuras de datos\Practicando-PC2\BinaryTree\BinaryTree\BinaryTree\BinaryTree.h(78,41): warning C4566: el carácter representado por el nombre de carácter universal '\u2514' no se puede representar en la página de códigos actual (1252)
+U:\Algoritmos y estructuras de datos\Practicando-PC2\BinaryTree\BinaryTree\BinaryTree\BinaryTree.h(78,41): warning C4566: el carácter representado por el nombre de carácter universal '\u2500' no se puede representar en la página de códigos actual (1252)
+U:\Algoritmos y estructuras de datos\Practicando-PC2\BinaryTree\BinaryTree\BinaryTree\BinaryTree.h(85,31): warning C4566: el carácter representado por el nombre de carácter universal '\u2502' no se puede representar en la página de códigos actual (1252)
+U:\Algoritmos y estructuras de datos\Practicando-PC2\BinaryTree\BinaryTree\BinaryTree\BinaryTree.h(86,31): warning C4566: el carácter representado por el nombre de carácter universal '\u2502' no se puede representar en la página de códigos actual (1252)
+U:\Algoritmos y estructuras de datos\Practicando-PC2\BinaryTree\BinaryTree\BinaryTree\BinatryTree.cpp(3,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BinaryTree.vcxproj -> U:\Algoritmos y estructuras de datos\Practicando-PC2\BinaryTree\BinaryTree\Debug\BinaryTree.exe
