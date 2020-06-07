@@ -1,0 +1,1 @@
+	auto AddCritery = [](Person *p) { return (p->getsex() == 'M') ? true : false; };
